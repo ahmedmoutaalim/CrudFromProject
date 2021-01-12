@@ -1,0 +1,20 @@
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\bin\Debug\formCrudProject.exe.config
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\bin\Debug\formCrudProject.exe
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\bin\Debug\formCrudProject.pdb
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\obj\Debug\formCrudProject.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\obj\Debug\formCrudProject.Form1.resources
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\obj\Debug\formCrudProject.Properties.Resources.resources
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\obj\Debug\formCrudProject.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\obj\Debug\formCrudProject.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\obj\Debug\formCrudProject.exe
+C:\Users\Youcode\source\repos\formCrudProject\formCrudProject\obj\Debug\formCrudProject.pdb
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\bin\Debug\formCrudProject.exe.config
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\bin\Debug\formCrudProject.exe
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\bin\Debug\formCrudProject.pdb
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\obj\Debug\formCrudProject.csprojAssemblyReference.cache
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\obj\Debug\formCrudProject.Form1.resources
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\obj\Debug\formCrudProject.Properties.Resources.resources
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\obj\Debug\formCrudProject.csproj.GenerateResource.cache
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\obj\Debug\formCrudProject.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\obj\Debug\formCrudProject.exe
+C:\Users\Youcode\omar Dropbox\Omar Moutaalim\Mon PC (DESKTOP-5CC21KA)\Desktop\formCrudProject\formCrudProject\obj\Debug\formCrudProject.pdb
